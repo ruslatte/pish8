@@ -997,10 +997,16 @@ var APP_DATA = {
           "target": "23-82m_2"
         },
         {
-          "yaw": -0.1530452889971503,
-          "pitch": 0.4417556819384245,
-          "rotation": 0,
+          "yaw": -0.3774593763422942,
+          "pitch": 0.4243274223737252,
+          "rotation": 11.780972450961727,
           "target": "21-82r_1"
+        },
+        {
+          "yaw": 0.03426797917333246,
+          "pitch": 0.4309346777200389,
+          "rotation": 0.7853981633974483,
+          "target": "32-81r_1"
         }
       ],
       "infoHotspots": []
@@ -1453,6 +1459,12 @@ var APP_DATA = {
           "pitch": 0.3526601404743257,
           "rotation": 0,
           "target": "31-81r_2"
+        },
+        {
+          "yaw": -2.003531384029431,
+          "pitch": 0.473251419309495,
+          "rotation": 0,
+          "target": "22-82m_1"
         }
       ],
       "infoHotspots": []
@@ -1654,7 +1666,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "pish8",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
